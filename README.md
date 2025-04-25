@@ -1,4 +1,4 @@
-<H3>NAME: Soundariyan MNS</H3>
+<H3>NAME: Soundariyan MN</H3>
 <H3>REGISTER NO: 212222230146</H3>
 <H3>EX. NO.5</H3>
 <H3>DATE: 25-04-2025</H3>
